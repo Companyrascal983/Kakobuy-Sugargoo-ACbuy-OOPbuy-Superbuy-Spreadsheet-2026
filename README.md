@@ -1,4 +1,4 @@
-# Best-kakobuy-spreadsheet
+# Kakobuy-Sugargoo-ACbuy-OOPbuy-Superbuy-Spreadsheet-2026
 All-in-One Spreadsheet for Kakobuy, ACbuy, Litbuy, OOPbuy, Sugargoo & Superbuy. Features 3000+ trending Chinese products from Weidian, Taobao & 1688 with daily updates. Browse premium finds on MaisonLooks with QC photos and AI try-on. Order easily via your preferred agent for the best shopping experience.
 # Ultimate Agent Spreadsheet: Kakobuy, ACbuy, Litbuy, OOPbuy, Sugargoo & Superbuy
 
